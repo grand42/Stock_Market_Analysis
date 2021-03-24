@@ -35,15 +35,15 @@ For each year, the script loops through each ticker in the summary table and ide
 
 ##### 2014
 
-![2014 Stock Summary Tables](Images/Year_2014.png)
+![2014 Stock Summary Tables](Images/Year_2014.PNG)
 
 ##### 2015
 
-![2015 Stock Summary Tables](Images/Year_2015.png)
+![2015 Stock Summary Tables](Images/Year_2015.PNG)
 
 ##### 2016
 
-![2016 Stock Summary Tables](Images/Year_2016.png)
+![2016 Stock Summary Tables](Images/Year_2016.PNG)
 
 
 
